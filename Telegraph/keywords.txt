@@ -1,0 +1,6 @@
+# Syntax-coloring for the telegraph library
+
+Telegraph	KEYWORD1
+Led		KEYWORD1
+Speaker		KEYWORD1
+sendMessage	KEYWORD2
